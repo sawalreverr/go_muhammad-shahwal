@@ -1,0 +1,15 @@
+1. Sebutkan berbagai bahasa pemrograman yang bisa digunakan untuk mengembangkan aplikasi backend!
+
+=> Java, C#, Javascript, Python, Ruby, Rust, Go, PHP
+Sumber : https://www.scaler.com/topics/software-engineering/backend-languages/
+
+
+2. Sebutkan dan jelaskan berbagai teknologi yang perlu dipelajari untuk menjadi seorang backend engineer!
+
+=> Mungkin bisa dimulai dari bagaimana cara internet itu bekerja, kemudian dilanjutkan dengan mempelajari bahasa pemograman yang menurut anda cocok, pelajari database (sql, nosql), pelajari API (rest, auth), testing, caching, version control
+Sumber : https://roadmap.sh/backend 
+
+
+3. Buatlah sebuah flowchart untuk menghitung luas trapesium.
+
+=> soal_3.png
