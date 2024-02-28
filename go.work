@@ -1,0 +1,6 @@
+go 1.22.0
+
+use (
+	./02_Basic-Programming/praktikum
+	./04_Time-and-Space-Complexity/praktikum
+)
