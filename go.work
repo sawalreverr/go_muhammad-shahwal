@@ -1,6 +1,7 @@
 go 1.22.0
 
 use (
+	"./05_Data-Structure-(Array-Slice-Map)-Function/praktikum/prioritas_1"
 	./02_Basic-Programming/praktikum
 	./04_Time-and-Space-Complexity/praktikum
 )
