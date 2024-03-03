@@ -1,8 +1,8 @@
 package main
 
 import (
+	"05-Data-Structure-Array-Slice-Map-Function/praktikum/prioritas-2/task"
 	"fmt"
-	"praktikum/prioritas_2/task"
 )
 
 func main() {
