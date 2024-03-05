@@ -6,4 +6,7 @@ use (
 	./02_Basic-Programming/praktikum
 	./04_Time-and-Space-Complexity/praktikum
 	./06_String-Advance-Function-Pointer-Struct-Method-Interface-Package-Error-Handling/praktikum/prioritas_1
+	./07_Soal-Recursive-Number-Theory-Sorting-Searching/praktikum/eksplorasi
+	./07_Soal-Recursive-Number-Theory-Sorting-Searching/praktikum/prioritas1
+	./07_Soal-Recursive-Number-Theory-Sorting-Searching/praktikum/prioritas2
 )
