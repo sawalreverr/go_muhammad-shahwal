@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "kentang goreng",
+    "price": 15000
+  },
+  {
+    "id": 2,
+    "name": "roti bakar coklat",
+    "price": 25000
+  },
+  {
+    "id": 3,
+    "name": "roti bakar keju",
+    "price": 25000
+  },
+  {
+    "id": 4,
+    "name": "mochi",
+    "price": 7500
+  },
+  {
+    "id": 5,
+    "name": "es krim vanilla",
+    "price": 4000
+  },
+  {
+    "id": 6,
+    "name": "es krim stroberi",
+    "price": 4500
+  },
+  {
+    "id": 7,
+    "name": "coklat ayam thunder",
+    "price": 2000
+  },
+  {
+    "id": 8,
+    "name": "wafer pisang",
+    "price": 2000
+  },
+  {
+    "id": 9,
+    "name": "ciki sate kambing",
+    "price": 2000
+  },
+  {
+    "id": 10,
+    "name": "kebab",
+    "price": 23000
+  }
+]

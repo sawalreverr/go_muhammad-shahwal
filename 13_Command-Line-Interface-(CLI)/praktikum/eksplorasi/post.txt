@@ -1,0 +1,24 @@
+
+GET REQUEST
+ENDPOINT    : https://jsonplaceholder.typicode.com/posts/1
+METHOD      : GET
+BODY        :
+TYPE        :
+
+POST REQUEST
+ENDPOINT    : https://jsonplaceholder.typicode.com/posts/
+METHOD      : POST
+BODY        : {"title": "test", "body": "this is content", "userId": 1}
+TYPE        : application/json
+
+PUT REQUEST
+ENDPOINT    : https://jsonplaceholder.typicode.com/posts/1
+METHOD      : PUT
+BODY        : {"id": 1, "title":"test", "body":"edit id 1", "userId":1}
+TYPE        : application/json
+
+DELETE REQUEST
+ENDPOINT    : https://jsonplaceholder.typicode.com/posts/1
+METHOD      : DELETE
+BODY        : 
+TYPE        : 
