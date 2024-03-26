@@ -1,0 +1,89 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "Task 02",
+    "dateExported": "2024-03-26T17:59:51.989Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "e8ddb50e-3199-4f6e-a44b-fcddea10dfd3",
+            "colId": "2aab3d00-2699-4318-a5e4-8a236a4eebfc",
+            "containerId": "",
+            "name": "Client GET 1",
+            "url": "https://virtserver.swaggerhub.com/sepulsa/RentABook-API/1.0.0/client/1",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-03-26T17:52:51.365Z",
+            "modified": "2024-03-26T17:52:51.365Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "67d20319-af61-4649-a4c2-cafe1c19f7cd",
+            "colId": "2aab3d00-2699-4318-a5e4-8a236a4eebfc",
+            "containerId": "",
+            "name": "Client GET All",
+            "url": "https://virtserver.swaggerhub.com/sepulsa/RentABook-API/1.0.0/client",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-03-26T17:53:35.644Z",
+            "modified": "2024-03-26T17:53:35.644Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "56d60c04-f236-4932-8eba-09e15b9bc3be",
+            "colId": "2aab3d00-2699-4318-a5e4-8a236a4eebfc",
+            "containerId": "",
+            "name": "Client POST id 3",
+            "url": "https://virtserver.swaggerhub.com/sepulsa/RentABook-API/1.0.0/client",
+            "method": "POST",
+            "sortNum": 30000,
+            "created": "2024-03-26T17:56:14.268Z",
+            "modified": "2024-03-26T17:56:14.268Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n  \"client_id\": 3,\r\n  \"client_key\": \"CLIENT03\",\r\n  \"client_secret\": \"SECRET03\",\r\n  \"status\": true\r\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "56f8408b-9494-4867-a4ca-ab6ae6ff1598",
+            "colId": "2aab3d00-2699-4318-a5e4-8a236a4eebfc",
+            "containerId": "",
+            "name": "Client PUT edit id 1",
+            "url": "https://virtserver.swaggerhub.com/sepulsa/RentABook-API/1.0.0/client/1",
+            "method": "PUT",
+            "sortNum": 40000,
+            "created": "2024-03-26T17:57:54.520Z",
+            "modified": "2024-03-26T17:57:54.520Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n  \"client_id\": 1,\r\n  \"client_key\": \"CLIENT04\",\r\n  \"client_secret\": \"SECRET04\",\r\n  \"status\": true\r\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "97d4c997-90bd-4eee-8818-623905e8c1fd",
+            "colId": "2aab3d00-2699-4318-a5e4-8a236a4eebfc",
+            "containerId": "",
+            "name": "Client DELETE id 1",
+            "url": "https://virtserver.swaggerhub.com/sepulsa/RentABook-API/1.0.0/client/1",
+            "method": "DELETE",
+            "sortNum": 50000,
+            "created": "2024-03-26T17:58:28.483Z",
+            "modified": "2024-03-26T17:58:28.483Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}

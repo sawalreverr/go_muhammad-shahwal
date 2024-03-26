@@ -1,0 +1,89 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "Task 01",
+    "dateExported": "2024-03-26T17:59:42.298Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "a7060988-1c5d-44ce-a551-14b3ed886b27",
+            "colId": "7f3a5648-4c3b-4303-b2b0-278f09d0f923",
+            "containerId": "",
+            "name": "GET all todos",
+            "url": "https://jsonplaceholder.typicode.com/todos",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-03-26T17:16:02.950Z",
+            "modified": "2024-03-26T17:16:02.950Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "6a95de17-782b-4a59-b919-a29ef2caf124",
+            "colId": "7f3a5648-4c3b-4303-b2b0-278f09d0f923",
+            "containerId": "",
+            "name": "GET todo 1",
+            "url": "https://jsonplaceholder.typicode.com/todos/1",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-03-26T17:16:30.491Z",
+            "modified": "2024-03-26T17:16:30.491Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "067b1ae1-34f1-4ae3-aba3-b44c9104a321",
+            "colId": "7f3a5648-4c3b-4303-b2b0-278f09d0f923",
+            "containerId": "",
+            "name": "POST todo",
+            "url": "https://jsonplaceholder.typicode.com/todos",
+            "method": "POST",
+            "sortNum": 30000,
+            "created": "2024-03-26T17:17:13.834Z",
+            "modified": "2024-03-26T17:17:13.834Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"userId\": 2,\r\n    \"id\": 2,\r\n    \"title\": \"new todo\",\r\n    \"completed\": true\r\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "6d122d0b-e927-48bc-8162-f12d85dce567",
+            "colId": "7f3a5648-4c3b-4303-b2b0-278f09d0f923",
+            "containerId": "",
+            "name": "PUT todo 1",
+            "url": "https://jsonplaceholder.typicode.com/todos/1",
+            "method": "PUT",
+            "sortNum": 40000,
+            "created": "2024-03-26T17:17:53.595Z",
+            "modified": "2024-03-26T17:17:53.595Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"userId\": 2,\r\n    \"id\": 2,\r\n    \"title\": \"new todo\",\r\n    \"completed\": true\r\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "38e74499-513c-4bc5-950f-00640f0d39a6",
+            "colId": "7f3a5648-4c3b-4303-b2b0-278f09d0f923",
+            "containerId": "",
+            "name": "DELETE todo 1",
+            "url": "https://jsonplaceholder.typicode.com/todos/1",
+            "method": "DELETE",
+            "sortNum": 50000,
+            "created": "2024-03-26T17:18:13.133Z",
+            "modified": "2024-03-26T17:18:13.133Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
