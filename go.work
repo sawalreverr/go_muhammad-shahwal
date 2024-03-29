@@ -9,4 +9,7 @@ use (
 	./07_Soal-Recursive-Number-Theory-Sorting-Searching/praktikum/eksplorasi
 	./07_Soal-Recursive-Number-Theory-Sorting-Searching/praktikum/prioritas1
 	./07_Soal-Recursive-Number-Theory-Sorting-Searching/praktikum/prioritas2
+	./16_Intro-Echo-Golang/praktikum/eksplorasi
+	./16_Intro-Echo-Golang/praktikum/prioritas1
+	./16_Intro-Echo-Golang/praktikum/prioritas2
 )
