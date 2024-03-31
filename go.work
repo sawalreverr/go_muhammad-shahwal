@@ -3,6 +3,9 @@ go 1.22.0
 use (
 	"./05_Data-Structure-(Array-Slice-Map)-Function/praktikum/prioritas_1"
 	"./05_Data-Structure-(Array-Slice-Map)-Function/praktikum/prioritas_2"
+	"./17_ORM-Code-Structure-(MVC)/praktikum/eksplorasi"
+	"./17_ORM-Code-Structure-(MVC)/praktikum/prioritas1"
+	"./17_ORM-Code-Structure-(MVC)/praktikum/prioritas2"
 	./02_Basic-Programming/praktikum
 	./04_Time-and-Space-Complexity/praktikum
 	./06_String-Advance-Function-Pointer-Struct-Method-Interface-Package-Error-Handling/praktikum/prioritas_1
