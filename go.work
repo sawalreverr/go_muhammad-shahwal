@@ -15,4 +15,7 @@ use (
 	./16_Intro-Echo-Golang/praktikum/eksplorasi
 	./16_Intro-Echo-Golang/praktikum/prioritas1
 	./16_Intro-Echo-Golang/praktikum/prioritas2
+	./18_Middleware/praktikum/eksplorasi
+	./18_Middleware/praktikum/prioritas1
+	./18_Middleware/praktikum/prioritas2
 )
