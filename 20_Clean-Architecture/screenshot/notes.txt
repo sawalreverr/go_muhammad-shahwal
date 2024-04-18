@@ -1,0 +1,1 @@
+permisi kak, saya tidak kenapa test coverage nya hanya mendapatkan 70%, karena menurut saya untuk penerapan testing sudah semua dilakukan.
