@@ -1,0 +1,5 @@
+Biar repository untuk tugas lebih clean aja kak, jadi saya buat repository baru khusus untuk tugas ini
+
+terkait bukti bisa dilihat langsung pada folder screenshot.. Terimakasih :D 
+
+https://github.com/sawalreverr/learn-github-action
