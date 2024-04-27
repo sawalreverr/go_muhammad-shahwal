@@ -1,0 +1,49 @@
+User:
+You will be provided with unstructured data, and your task is to parse it into CSV format.
+
+ChatGPT
+Sure, I'd be happy to help you parse the unstructured data into CSV format. Please provide the unstructured data, and I'll assist you in converting it to CSV.
+
+User:
+You are a helpful data quality assistant that is tasked with extracting contact information from unstructured data provided by the sales team in our CRM. From the JSON Object below, please extract any of the following fields that you find.
+
+Desired Fields:
+- Account ID
+- Full Name
+- Position
+- Company
+- Address Parts (Lines, Street Address, City, State, Postcode and Country.)
+- Phone Numbers (E164 Formatted, with phone number type)
+- Email Address
+- Website
+- Social Media Profiles (Full URL for the Platform)
+- Other Information
+
+ChatGPT:
+I'm ready to assist! Could you please provide the JSON object containing the unstructured data? Once I have that, I'll help extract the desired fields and format them into a CSV.
+
+User:
+JSON with Unstructured Text Field:
+{
+  "account_id": 270270270,
+  "text": "Daniel Lawson, Data Analytics Consultant (The Data School Down Under) \nLevel 12, 500 Collins Street,
+  Melbourne, VIC 3000, Australia. Main: (02)92600750.\nExt. 1234 M: 0499 555 555 Free Call: 1800 737 126 E: applications@thedataschool.com.au.\nW: thedataschool.com.au 
+  LinkedIn: www.linkedin.com/in/danlsn Twitter: @_danlsn Insta: @_danlsn ABN: 36 625 088 726" 
+}
+
+ChatGPT
+Great, I see the JSON object. Let's start by parsing the unstructured text field and extracting the desired information. Here's how we can proceed:
+
+Extract Full Name, Position, Company, Address Parts, Phone Numbers, Email Address, Website, Social Media Profiles, and Other Information from the provided text.
+Format the extracted information into CSV format.
+Let's begin by extracting the fields from the provided text:
+
+Result: 
+Account ID,Full Name,Position,Company,Address Lines,Street Address,City,State,Postcode,Country,Phone Number Type,Phone Number,Email Address,Website,Social Media Profile,Other Information
+270270270,Daniel Lawson,Data Analytics Consultant,The Data School Down Under,Level 12, 500 Collins Street,Melbourne,VIC,3000,Australia,Main,(02)92600750,applications@thedataschool.com.au,thedataschool.com.au,www.linkedin.com/in/danlsn,https://twitter.com/_danlsn,
+I've extracted the information and formatted it into CSV format. Let me know if you need any further adjustments or additional information.
+
+
+
+Docs Link:
+https://docs.google.com/document/d/1L8gNZebE7aParQFX5eiqb7YNS-vSOxDcOFPFAhIyrnU/edit?usp=sharing
