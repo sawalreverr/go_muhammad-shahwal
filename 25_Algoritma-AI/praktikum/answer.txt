@@ -1,0 +1,15 @@
+Soal:
+Terdapat sekumpulan data mengenai tulisan dalam bentuk tweet mengenai sebuah kebijakan. Sekumpulan data tersebut ingin dikelompokkan berdasarkan sentimen dari tweet tersebut yaitu sentimen positif dan negatif. Jelaskan algoritma A.I. yang dapat digunakan untuk mengelompokkan tweet tersebut beserta alasannya.
+
+Jawaban:
+Algoritma yang menurut saya bisa digunakan untuk mengelompokkan sentimen positif/negatif dari sebuah tweet yaitu
+- Naive bayes, alesannya dikarenakan mudah untuk dipakai, cocok untuk data sedikit, tetapi tidak terlalu akurat
+- Support vector machine (SVM), algoritma ini lebih baik untuk data banyak dan kompleks, tapi perhitungannya rumit dan perlu banyak penyesuaian
+- Convolutional neural network (CNN), algoritma ini belajar dari pola dalam tweet, hasilnya bagus tapi butuh banyak data dan perhitungannya lumayan rumit
+- Long short-term memory (LSTM), algoritma ini dapat memahami konteks kalimat dengan baik, hasilnya bagus tapi butuh banyak data dan juga perhitungannya lumayan rumit
+
+Pemilihan algoritma dengan tepat:
+Jika data sedikit maka gunakan Naive bayes
+Jika data banyak/rumit maka gunakan SVM, CNN atau LSTM
+
+Tetap ingat bahwasannya tidak ada algoritma yang terbaik, kita perlu menganalisanya untuk mendapatkan hasil yang tepat
