@@ -18,4 +18,5 @@ use (
 	./18_Middleware/praktikum/eksplorasi
 	./18_Middleware/praktikum/prioritas1
 	./18_Middleware/praktikum/prioritas2
+	./26_Penggunaan-AI-di-Golang/praktikum/task-openai
 )
